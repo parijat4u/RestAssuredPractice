@@ -1,0 +1,5 @@
+firefox.exe -p
+WebDriverProfile - Firefox profile created for Selenium
+Path of this profile:
+
+C:\\Users\\User\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\8m6kc9c6.WebDriverProfile
